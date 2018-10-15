@@ -2,6 +2,10 @@
 #wall .tag-1{
   display: none;
 }
-#wall div#tag-2{
+#wall #tag-2{
+  display: none;
+}
+
+#wall .slick{
   display: none;
 }
